@@ -72,7 +72,6 @@ tempo register functions --path /path/to/myprovider_module
 ## Existing Providers
 
 - [tempo-provider-sprig](https://github.com/indaco/tempo-provider-sprig)
-- [tempo-provider-goname](https://github.com/indaco/tempo-provider-goname)
 
 ## 📖 Related Documentation
 
